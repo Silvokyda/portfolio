@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/silvanus-oketch-8091822a6/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Silvokyda"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:silvansowino1@gmail.com"
+        }
+    ]
+}

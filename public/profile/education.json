@@ -1,0 +1,13 @@
+{
+    "education":[
+        {
+            "title": "Sept 2021 - Present",
+            "cardTitle": "B.Education, Computer Studies & Mathematics",
+            "cardSubtitle":"Kenyatta University, Nairobi",
+            "cardDetailedText": "CGPA - 9.5",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        }
+    ]
+}
