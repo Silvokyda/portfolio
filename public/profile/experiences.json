@@ -1,33 +1,37 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Tech Lead (Daboka Project)",
+            "subtitle": "Tech Space",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Lead the development team for the Daboka project, overseeing the implementation of technical solutions and ensuring project milestones were met on time and within budget.",
+                "Collaborated closely with stakeholders to define project requirements, prioritize tasks, and address technical challenges.",
+                "Provided mentorship and guidance to team members, fostering a collaborative and innovative work environment."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "04/2024 - Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Tech Lead",
+            "subtitle": "Go Deliveries",
+            "workType": "Full-time",
             "workDescription": [
-                "Worked on abc."
+                "Assumed the role of Tech Lead for the Go Deliveries project, leading a team of developers in the design, development, and deployment of innovative solutions to enhance the delivery platform.",
+                "Implemented best practices in software development, including code reviews, unit testing, and continuous integration, to ensure the delivery of high-quality software products.",
+                "Collaborated with cross-functional teams to align technical strategies with business objectives and drive project success."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "04/2024 - Present"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
+            "title": "Freelance App Developer",
+            "subtitle": "Self-Employed",
             "workType": "Freelance",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Developed official apps for startups, delivering robust solutions for both Android and iOS platforms using hybrid frameworks.",
+                "Provided tailored app development services, meeting client specifications and exceeding expectations.",
+                "Collaborated with clients to understand their vision and translate it into functional and user-friendly mobile applications."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "09/2020 - 01/2024"
         }
     ]
 }

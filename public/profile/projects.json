@@ -1,149 +1,195 @@
 {
-    "projects" : [
+    "projects": [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "image": "images/projects/omil-staffing.png",
+            "title": "Omil Staffing Solutions Website",
+            "bodyText": "- Developed a responsive website for Omil Staffing Solutions using HTML, CSS, and JavaScript.\n- Designed with user-friendly navigation and modern UI/UX principles to enhance user experience.",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "text": "View Live",
+                    "href": "https://omil-staffing.vercel.app/"
                 }
             ],
-            "tags" : [
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Responsive Design",
+                "UI/UX"
+            ]
+        },
+        {
+            "image": "images/projects/tech-space.png",
+            "title": "Tech Space Website",
+            "bodyText": "- Collaborated in the development of the Tech Space website, contributing to front-end design and functionality.\n- Utilized technologies such as HTML, CSS, JavaScript, and React to create an engaging and informative platform for technology enthusiasts.",
+            "links": [
+                {
+                    "text": "View Live",
+                    "href": "https://tech-space.co.ke/"
+                }
+            ],
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript",
                 "React",
-                "Portfolio",
-                "JavaScript"
+                "Front-end Development"
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image": "images/projects/go-deliveries.png",
+            "title": "Go Deliveries Figma Design",
+            "bodyText": "- Designed the user interface for Go Deliveries mobile application using Figma.\n- Incorporated intuitive navigation, clean layout, and modern design elements to optimize user experience and functionality.",
+            "links": [
+                {
+                    "text": "View Design",
+                    "href": "https://www.figma.com/file/oB4HQUHjEmSCnvuVlvG1zQ/Go-Deliveries?type=design&mode=design&t=BlSWO0bDGtb5ossW-0"
+                }
+            ],
+            "tags": [
+                "Figma",
+                "UI/UX Design",
+                "Mobile App Design"
+            ]
+        },
+        {
+            "image": "images/projects/weather-app.png",
+            "title": "Weather App",
+            "bodyText": "- Developed a weather application using React Native and Expo, providing users with real-time weather updates and forecasts.\n- Integrated with weather APIs to fetch accurate data and displayed results in a user-friendly interface.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
+                    "href": "https://github.com/Silvokyda/weather-app"
                 },
                 {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "text": "View Live",
+                    "href": "https://weather-app-silvokyda.vercel.app/"
                 }
             ],
-            "tags" : [
-                "Python",
+            "tags": [
+                "React Native",
+                "Expo",
+                "Mobile App Development",
+                "API Integration"
+            ]
+        },
+        {
+            "image": "images/projects/savanna-link.png",
+            "title": "Savanna Link E-Commerce (Django)",
+            "bodyText": "- Developed a Django e-commerce platform for Savanna Link, facilitating online shopping and order management.\n- Implemented features such as user authentication, product catalog, and secure payment processing to enhance the e-commerce experience.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Silvokyda/SavannaLink"
+                }
+            ],
+            "tags": [
                 "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
-            ]
-        },
-        {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
-            ]
-        },
-        {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
-            ]
-        },
-        {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
-            ]
-        },
-        {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
-            ]
-        },
-        {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
-                }
-            ],
-            "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
-            ]
-        },
-        {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
-                }
-            ],
-            "tags" : [
                 "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "E-commerce",
+                "Web Development"
+            ]
+        },
+        {
+            "image": "images/projects/login-form-animation.png",
+            "title": "React Native Login Form with Animation",
+            "bodyText": "- Developed a login form with animated transitions using React Native, enhancing user interaction and visual appeal.\n- Implemented smooth animations and transitions to create a seamless login experience for users.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Silvokyda/MonkeySee-MonkeyDo"
+                }
+            ],
+            "tags": [
+                "React Native",
+                "Animation",
+                "Mobile App Development"
+            ]
+        },
+        {
+            "image": "images/projects/flower-scanning-app.png",
+            "title": "Flower Scanning App (React Native & Expo)",
+            "bodyText": "- Developed a flower scanning application using React Native and Expo, allowing users to identify flowers through image recognition.\n- Integrated with machine learning models and camera functionalities to provide accurate flower identification.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Silvokyda/Botanic_Scan"
+                }
+            ],
+            "tags": [
+                "React Native",
+                "Expo",
+                "Mobile App Development",
+                "Machine Learning",
+                "Image Recognition"
+            ]
+        },
+        {
+            "image": "images/projects/al-salam-app-design.png",
+            "title": "Al Salam Butcher App Design (Figma)",
+            "bodyText": "- Designed the user interface for the Al Salam Butcher mobile application using Figma, focusing on intuitive navigation and seamless user experience.\n- Incorporated modern design elements and branding guidelines to create a visually appealing and functional app design.",
+            "links": [
+                {
+                    "text": "View Design",
+                    "href": "https://www.figma.com/file/3MUOvgvuAAjtUWFod711J2/AL-SALAM?type=design&mode=design&t=BlSWO0bDGtb5ossW-0"
+                }
+            ],
+            "tags": [
+                "Figma",
+                "UI/UX Design",
+                "Mobile App Design"
+            ]
+        },
+        {
+            "image": "images/projects/al-salam-app.png",
+            "title": "Al Salam App",
+            "bodyText": "- Developed the Al Salam Butcher mobile application, providing users with a convenient platform to browse products, place orders, and track deliveries.\n- Implemented features such as user authentication, product catalog, and order management to streamline the shopping experience.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Silvokyda/al-salam-app"
+                }
+            ],
+            "tags": [
+                "React Native",
+                "Mobile App Development",
+                "E-commerce"
+            ]
+        },
+        {
+            "image": "images/projects/al-salam-backend.png",
+            "title": "Al Salam App Backend (Node.js)",
+            "bodyText": "- Developed the backend infrastructure for the Al Salam Butcher mobile application using Node.js, Express, and MongoDB.\n- Implemented RESTful APIs, database schema design, and user authentication to support the functionality of the mobile app.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Silvokyda/al-salam-backend"
+                }
+            ],
+            "tags": [
+                "Node.js",
+                "Express",
+                "MongoDB",
+                "RESTful APIs",
+                "Backend Development"
+            ]
+        },
+        {
+            "image": "images/projects/daboka-saas.png",
+            "title": "Daboka Saas System",
+
+
+            "bodyText": "- Collaborated on the development of the Daboka Saas System, contributing to front-end and back-end features.\n- Implemented scalable architecture, data management functionalities, and user interface enhancements to optimize the platform for users.",
+            "links": [
+                {
+                    "text": "View Live",
+                    "href": "https://daboka.io/"
+                }
+            ],
+            "tags": [
+                "Saas",
+                "Web Development",
+                "Collaboration"
             ]
         }
     ]
