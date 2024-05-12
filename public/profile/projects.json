@@ -1,6 +1,22 @@
 {
     "projects": [
         {
+            "image": "images/projects/demo.png",
+            "title": "Django Internet Speed Tester",
+            "bodyText": "- Django Internet Speed Tester is a web application built with Django that allows users to test their internet speed.\n- It provides functionalities to measure download and upload speeds as well as ping.",
+            "links": [
+                {
+                    "text": "View Live",
+                    "href": "https://internet-speed-tester-xi.vercel.app/"
+                }
+            ],
+            "tags": [
+                "Django",
+                "Internet Speed",
+                "Web Development"
+            ]
+        },
+        {
             "image": "images/projects/omil-staffing.png",
             "title": "Omil Staffing Solutions Website",
             "bodyText": "- Developed a responsive website for Omil Staffing Solutions using HTML, CSS, and JavaScript.\n- Designed with user-friendly navigation and modern UI/UX principles to enhance user experience.",
