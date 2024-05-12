@@ -1,17 +1,6 @@
 {
     "experiences": [
         {
-            "title": "Tech Lead (Daboka Project)",
-            "subtitle": "Tech Space",
-            "workType": "Full-time",
-            "workDescription": [
-                "Lead the development team for the Daboka project, overseeing the implementation of technical solutions and ensuring project milestones were met on time and within budget.",
-                "Collaborated closely with stakeholders to define project requirements, prioritize tasks, and address technical challenges.",
-                "Provided mentorship and guidance to team members, fostering a collaborative and innovative work environment."
-            ],
-            "dateText": "04/2024 - Present"
-        },
-        {
             "title": "Tech Lead",
             "subtitle": "Go Deliveries",
             "workType": "Full-time",
@@ -21,6 +10,17 @@
                 "Collaborated with cross-functional teams to align technical strategies with business objectives and drive project success."
             ],
             "dateText": "04/2024 - Present"
+        },
+        {
+            "title": "Tech Lead (Daboka Project)",
+            "subtitle": "Tech Space",
+            "workType": "Full-time",
+            "workDescription": [
+                "Lead the development team for the Daboka project, overseeing the implementation of technical solutions and ensuring project milestones were met on time and within budget.",
+                "Collaborated closely with stakeholders to define project requirements, prioritize tasks, and address technical challenges.",
+                "Provided mentorship and guidance to team members, fostering a collaborative and innovative work environment."
+            ],
+            "dateText": "01/2024 - 04/2024"
         },
         {
             "title": "Freelance App Developer",
