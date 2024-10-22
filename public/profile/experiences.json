@@ -1,6 +1,17 @@
 {
     "experiences": [
         {
+            "title": "Freelance App Developer",
+            "subtitle": "DawaPay",
+            "workType": "Freelance",
+            "workDescription": [
+                "Developed and maintained the DawaPay mobile payment application, focused on streamlining healthcare payments for users.",
+                "Led the development of the app’s core payment processing system, ensuring seamless integration with payment gateways and healthcare service providers.",
+                "Collaborated with designers and healthcare industry experts to create an intuitive user interface, enhancing the user experience for managing payments and accessing healthcare services."
+            ],
+            "dateText": "08/2024 - Present"
+        },        
+        {
             "title": "Tech Lead",
             "subtitle": "Go Deliveries",
             "workType": "Full-time",

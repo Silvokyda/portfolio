@@ -1,19 +1,92 @@
 {
     "projects": [
         {
-            "image": "images/projects/demo.png",
-            "title": "Django Internet Speed Tester",
-            "bodyText": "- Django Internet Speed Tester is a web application built with Django that allows users to test their internet speed.\n- It provides functionalities to measure download and upload speeds as well as ping.",
+            "image": "images/projects/customer.png",
+            "title": "GoDeliveries Customer App",
+            "bodyText": "- Designed a seamless user interface for the GoDeliveries Customer App, focusing on intuitive navigation and a modern, clean layout to enhance the user experience.\n- Developed and refined the app’s UI using Figma, ensuring it aligned with usability standards and offered a streamlined user journey.",
             "links": [
                 {
-                    "text": "View Live",
-                    "href": "https://internet-speed-tester-xi.vercel.app/"
+                    "text": "View on Play Store",
+                    "href": "https://play.google.com/store/apps/details?id=com.godeliveries.godeliveries"
                 }
             ],
             "tags": [
-                "Django",
-                "Internet Speed",
-                "Web Development"
+                "React Native",
+                "UI/UX Design",
+                "User Experience",
+                "Mobile Interface"
+            ]
+        },
+        {
+            "image": "images/projects/rider.png",
+            "title": "GoDeliveries Rider App",
+            "bodyText": "- Created an engaging user interface for the GoDeliveries Rider App, leveraging Figma to implement a user-centric design.\n- Ensured smooth navigation and functionality, improving usability for riders through clear, practical UI elements.",
+            "links": [
+                {
+                    "text": "View on Play Store",
+                    "href": "https://play.google.com/store/apps/details?id=com.silvo.dawapay&pcampaignid=web_share"
+                }
+            ],
+            "tags": [
+                "React Native",
+                "UI/UX Design",
+                "Mobile App UI",
+                "User Experience"
+            ]
+        },
+        {
+            "image": "images/projects/goDeliveries.png",
+            "title": "GoDeliveries Figma Design",
+            "bodyText": "- Designed the user interface for Go Deliveries mobile application using Figma.\n- Incorporated intuitive navigation, clean layout, and modern design elements to optimize user experience and functionality.",
+            "links": [
+                {
+                    "text": "View Design",
+                    "href": "https://www.figma.com/file/oB4HQUHjEmSCnvuVlvG1zQ/Go-Deliveries?type=design&mode=design&t=BlSWO0bDGtb5ossW-0"
+                }
+            ],
+            "tags": [
+                "Figma",
+                "UI/UX Design",
+                "Mobile App Design"
+            ]
+        },
+        {
+            "image": "images/projects/dawapay.png",
+            "title": "DawaPay Mobile App",
+            "bodyText": "- Designed the user interface for DawaPay, a mobile payment app aimed at simplifying healthcare payments.\n- Focused on creating an intuitive and user-friendly design using Figma to enhance payment processing efficiency.\n- Integrated clear visual elements to guide users through payment workflows, making it easy for users to manage transactions and access healthcare services.",
+            "links": [
+                {
+                    "text": "View on Play Store",
+                    "href": "https://play.google.com/store/apps/details?id=com.silvo.dawapay&pcampaignid=web_share"
+                }
+            ],
+            "tags": [
+                "Flutter",
+                "UI/UX Design",
+                "Healthcare App",
+                "Mobile Payments",
+                "User Experience"
+            ]
+        },
+        {
+            "image": "images/projects/weatherApp.png",
+            "title": "Weather App",
+            "bodyText": "- Developed a weather application using React Native and Expo, providing users with real-time weather updates and forecasts.\n- Integrated with weather APIs to fetch accurate data and displayed results in a user-friendly interface.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Silvokyda/weather-app"
+                },
+                {
+                    "text": "View Live",
+                    "href": "https://weather-app-silvokyda.vercel.app/"
+                }
+            ],
+            "tags": [
+                "React Native",
+                "Expo",
+                "Mobile App Development",
+                "API Integration"
             ]
         },
         {
@@ -50,60 +123,6 @@
                 "JavaScript",
                 "React",
                 "Front-end Development"
-            ]
-        },
-        {
-            "image": "images/projects/goDeliveries.png",
-            "title": "Go Deliveries Figma Design",
-            "bodyText": "- Designed the user interface for Go Deliveries mobile application using Figma.\n- Incorporated intuitive navigation, clean layout, and modern design elements to optimize user experience and functionality.",
-            "links": [
-                {
-                    "text": "View Design",
-                    "href": "https://www.figma.com/file/oB4HQUHjEmSCnvuVlvG1zQ/Go-Deliveries?type=design&mode=design&t=BlSWO0bDGtb5ossW-0"
-                }
-            ],
-            "tags": [
-                "Figma",
-                "UI/UX Design",
-                "Mobile App Design"
-            ]
-        },
-        {
-            "image": "images/projects/weatherApp.png",
-            "title": "Weather App",
-            "bodyText": "- Developed a weather application using React Native and Expo, providing users with real-time weather updates and forecasts.\n- Integrated with weather APIs to fetch accurate data and displayed results in a user-friendly interface.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/Silvokyda/weather-app"
-                },
-                {
-                    "text": "View Live",
-                    "href": "https://weather-app-silvokyda.vercel.app/"
-                }
-            ],
-            "tags": [
-                "React Native",
-                "Expo",
-                "Mobile App Development",
-                "API Integration"
-            ]
-        },
-        {
-            "image": "images/projects/savanna-link.png",
-            "title": "Savanna Link E-Commerce (Django)",
-            "bodyText": "- Developed a Django e-commerce platform for Savanna Link, facilitating online shopping and order management.\n- Implemented features such as user authentication, product catalog, and secure payment processing to enhance the e-commerce experience.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/Silvokyda/SavannaLink"
-                }
-            ],
-            "tags": [
-                "Django",
-                "Python",
-                "E-commerce",
-                "Web Development"
             ]
         },
         {
@@ -191,21 +210,19 @@
             ]
         },
         {
-            "image": "images/projects/daboka-saas.png",
-            "title": "Daboka Saas System",
-
-
-            "bodyText": "- Collaborated on the development of the Daboka Saas System, contributing to front-end and back-end features.\n- Implemented scalable architecture, data management functionalities, and user interface enhancements to optimize the platform for users.",
+            "image": "images/projects/demo.png",
+            "title": "Django Internet Speed Tester",
+            "bodyText": "- Django Internet Speed Tester is a web application built with Django that allows users to test their internet speed.\n- It provides functionalities to measure download and upload speeds as well as ping.",
             "links": [
                 {
                     "text": "View Live",
-                    "href": "https://daboka.io/"
+                    "href": "https://internet-speed-tester-xi.vercel.app/"
                 }
             ],
             "tags": [
-                "Saas",
-                "Web Development",
-                "Collaboration"
+                "Django",
+                "Internet Speed",
+                "Web Development"
             ]
         }
     ]
