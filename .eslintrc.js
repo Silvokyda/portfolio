@@ -20,6 +20,7 @@ module.exports = {
   rules: {
     'prefer-template': 0,
     'react/no-children-prop': [0],
+    "import/no-unresolved": ["error", { "ignore": ["@vercel/analytics"] }],
     'linebreak-style': 0
   },
 };
