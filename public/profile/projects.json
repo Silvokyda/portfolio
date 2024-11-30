@@ -69,6 +69,23 @@
             ]
         },
         {
+            "image": "images/projects/medicaloft.png",
+            "title": "Medicaloft Website",
+            "bodyText": "- Developed a responsive website for Medicaloft, a healthcare technology company, using React.\n- Designed with a focus on user experience and accessibility, ensuring seamless navigation and information accessibility for visitors.",
+            "links": [
+                {
+                    "text": "View Live",
+                    "href": "https://medica-loft.vercel.app/"
+                }
+            ],
+            "tags": [
+                "React",
+                "Responsive Design",
+                "Web Development",
+                "UI/UX"
+            ]
+        },
+        {
             "image": "images/projects/weatherApp.png",
             "title": "Weather App",
             "bodyText": "- Developed a weather application using React Native and Expo, providing users with real-time weather updates and forecasts.\n- Integrated with weather APIs to fetch accurate data and displayed results in a user-friendly interface.",

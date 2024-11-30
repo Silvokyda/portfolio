@@ -8,6 +8,7 @@ import AppContext from './AppContext';
 import MainApp from './MainApp';
 import GlobalStyles from './theme/GlobalStyles';
 import { lightTheme, darkTheme } from './theme/themes';
+import { Analytics } from "@vercel/analytics/react";
 
 function App() {
   window.matchMedia = null;
@@ -16,6 +17,7 @@ function App() {
   return (
     <AppContext.Provider value={{ darkMode }}>
       <ThemeProvider theme={darkMode.value ? darkTheme : lightTheme}>
+        <Analytics/>
         <GlobalStyles />
         <div className="App">
           <BrowserRouter>
